@@ -45,3 +45,4 @@ captures/
 #*.jks
 app/libs/
 app/src/main/res/drawable-ldpi/
+app/src/main/res/drawable/
