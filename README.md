@@ -15,7 +15,7 @@ Android拍照及图片裁剪、调用系统相册（兼容6.0权限处理及7.0�
 
 ▲ 效果图
 
-![](https://raw.githubusercontent.com/ChenYXin/TakePicAndGallery/master/app/src/main/res/gif/screenshot.gif)
+![](https://github.com/ChenYXin/TakePicAndGallery/blob/master/app/src/main/res/mipmap-mdpi/screenshot.gif?raw=true)
 
 # About me
 ❤ 我觉得大家一起学习和交流才会更有意思，如果您觉得我的文章还不错，或是对您有过帮助，欢迎Follow、Fork、Star .咱们大家一起学习，一起交流~~❤
